@@ -1,0 +1,14 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "Program for Generating a random Password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "password-generator": "./index.js"
+  },
+  "author": "Vincent Stacey",
+  "license": "MIT"
+}
